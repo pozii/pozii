@@ -1,16 +1,13 @@
-## Hi there 👋
+# Network & Infrastructure Engineer
 
-<!--
-**pozii/pozii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Specializing in high-performance web infrastructures and network protocols.**
 
-Here are some ideas to get you started:
+With over **7 years of professional experience**, I engineer scalable backend systems and robust network architectures. My focus lies in optimizing data flow, ensuring system reliability, and building secure infrastructure for complex web environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Core Competencies
+* **Infrastructure Design:** Architecting resilient web systems capable of handling high-traffic loads.
+* **Networking:** Deep understanding of TCP/IP, socket programming, and protocol optimization.
+* **System Security:** Implementing advanced security standards in network layers.
+
+---
+_"Building the invisible backbone of the web."_ — **Pozi**
