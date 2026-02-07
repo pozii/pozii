@@ -1,5 +1,3 @@
-# pozii
-
 > **Specializing in high-performance web infrastructures and network protocols.**
 
 With over **7 years of professional experience**, I engineer scalable backend systems and robust network architectures. My focus lies in optimizing data flow, ensuring system reliability, and building secure infrastructure for complex web environments.
