@@ -8,4 +8,4 @@ With over **7 years of professional experience**, I engineer scalable backend sy
 * **System Security:** Implementing advanced security standards in network layers.
 
 ---
-_"Building the invisible backbone of the web."_ — **Pozi**
+_"Building the invisible backbone of the web."_ — **pozii**
