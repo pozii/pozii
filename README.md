@@ -9,7 +9,7 @@
 I've spent the last 7 years building backend systems — mostly distributed infrastructure, network protocols, and things that need to handle a lot of traffic without falling over. I care about writing efficient code: safe memory handling, solid concurrency, and cutting out latency wherever it hides.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pozii/pozii/refs/heads/main/assets/line.png" alt="line divider" width="100%">
+  <img src="https://raw.githubusercontent.com/pozii/pozii/refs/heads/main/assets/line2.png" alt="line divider" width="100%">
 </p>
 
 ### What I Work On
@@ -20,7 +20,7 @@ I've spent the last 7 years building backend systems — mostly distributed infr
 * **Performance Optimization:** Profiling memory usage, cutting unnecessary allocations, tuning GC behavior — basically making things run lean.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pozii/pozii/refs/heads/main/assets/line.png" alt="line divider" width="100%">
+  <img src="https://raw.githubusercontent.com/pozii/pozii/refs/heads/main/assets/line3.png" alt="line divider" width="100%">
 </p>
 
 ### Languages I Use
