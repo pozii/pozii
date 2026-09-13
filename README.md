@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://pozii.dev">
+    <img src="https://raw.githubusercontent.com/pozii/pozii/refs/heads/main/assets/pozii.png" alt="pozii" width="400">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/pozii/pozii/refs/heads/main/assets/line.png" alt="line divider" width="100%">
 </p>
 
